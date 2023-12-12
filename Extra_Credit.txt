@@ -1,0 +1,7 @@
+In my project I used sklearn to run linear regression algorithms on data from a CSV to then predict housing prices. For this, I had to watch YouTube videos and look at example projects where people used sklearn to familiarize myself with the matter going beyond what we did in this course. 
+
+Additionally, I also did other small things that go beyond what we did in the course: 
+- display an image so that you can see what coordinates correspond with what place
+- save data to a text file
+- open and create csv files
+- create a chart with matplotlib to compare our house price to others
